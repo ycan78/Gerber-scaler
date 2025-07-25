@@ -1,0 +1,6 @@
+numpy>=1.19
+shapely>=1.7
+gerbonara>=0.8
+ezdxf>=0.14
+matplotlib>=3.3
+reportlab>=3.5
