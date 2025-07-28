@@ -48,7 +48,7 @@ pip install -r requirements.txt
 cd source/gerbertool
 python3 app.py
 ```
-#License
+## License
 Released under the MIT License. See LICENSE for full details.
 
 
