@@ -29,15 +29,15 @@ Get the latest standalone executable from  [Releases page](https://github.com/yc
    ```bash
    ./app
    ```
-2. **Open a gerber file**
--Click Browse, select your .gbr file, then click Run.  
--The original geometry will appear in the plot.  
-3. **Scale the plot**
--Enter X and Y scale factors  
--Click run again to see both scaled and orginal geometry  
-4. **Export**
--DXF: Click Export DXF to save a CAD-ready file.  
--PDF:Click Export PDF to generate a proportional PDF.  
+2. **Open a gerber file**  
+- Click Browse, select your .gbr file, then click Run.  
+- The original geometry will appear in the plot.  
+3. **Scale the plot**  
+- Enter X and Y scale factors    
+- Click run again to see both scaled and orginal geometry    
+4. **Export**  
+- DXF: Click Export DXF to save a CAD-ready file.    
+- PDF:Click Export PDF to generate a proportional PDF.    
 
 ## Installation from Source
 If you prefer to build from source, ensure you have Python 3.8+ and dependencies:
