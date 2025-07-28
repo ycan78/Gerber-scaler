@@ -1,4 +1,4 @@
-# Gerber-Parser
+# Gerber-scaler
 
 A GUI application for parsing, visualizing, scaling, and exporting Gerber PCB files.
 
@@ -14,20 +14,20 @@ A GUI application for parsing, visualizing, scaling, and exporting Gerber PCB fi
 
 Get the latest standalone executable from  [Releases page](https://github.com/ycan78/Gerber-scaler/releases):
 
-- **Linux** (ELF): `App`
-- **Windows** (EXE): `App.exe`
+- **Linux** (ELF): `app`
+- **Windows** (EXE): `app.exe`
 
 > Ensure the file is executable on Linux:
 >
 > ```bash
-> chmod +x App
+> chmod +x app
 > ```
 
 ## Usage
 
 1. **Run the application**
    ```bash
-   ./App
+   ./app
    ```
 2. **Open a gerber file**
 -Click Browse, select your .gbr file, then click Run.
