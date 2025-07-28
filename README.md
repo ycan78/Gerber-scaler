@@ -6,7 +6,7 @@ A GUI application for parsing, visualizing, scaling, and exporting Gerber PCB fi
 
 - **Parse** RS-274X Gerber files
 - **Visualize** original and scaled geometry in an interactive plot
-- **Scale** by custom X/Y factors (supports inch ↔ mm)
+- **Scale** by custom X/Y factors
 - **Export** to DXF and PDF (preserving proportions)
 - **Standalone executable**: no Python or dependencies required on user’s machine
 
