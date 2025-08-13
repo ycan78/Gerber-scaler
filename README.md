@@ -15,7 +15,7 @@ A GUI application for parsing, visualizing, scaling, and exporting Gerber PCB fi
 Get the latest standalone executable from  [Releases page](https://github.com/ycan78/Gerber-scaler/releases):
 
 - **Linux** (ELF): `app`
-- **Windows** (EXE): `app.exe`
+
 
 > Ensure the file is executable on Linux:
 >
